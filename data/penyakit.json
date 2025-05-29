@@ -1,0 +1,62 @@
+[
+    {
+        "nama": "Flu",
+        "gejala": ["demam", "batuk", "pilek", "sakit kepala", "nyeri otot"],
+        "deskripsi": "Infeksi virus pada sistem pernapasan.",
+        "saran": "Istirahat cukup, banyak minum air putih, konsumsi obat pereda gejala jika diperlukan."
+    },
+    {
+        "nama": "Demam Berdarah",
+        "gejala": ["demam tinggi", "sakit kepala parah", "nyeri belakang mata", "nyeri otot", "nyeri sendi", "mual", "muntah", "ruam kulit", "lemas"],
+        "deskripsi": "Penyakit akibat virus dengue dari gigitan nyamuk Aedes aegypti.",
+        "saran": "Segera ke fasilitas kesehatan, perbanyak cairan, hindari aspirin."
+    },
+    {
+        "nama": "Tifus",
+        "gejala": ["demam tinggi", "sakit kepala", "lemas", "sakit perut", "diare", "sembelit"],
+        "deskripsi": "Infeksi bakteri Salmonella typhi dari makanan/minuman terkontaminasi.",
+        "saran": "Konsultasikan dengan dokter, konsumsi antibiotik, makan makanan lunak."
+    },
+    {
+        "nama": "Alergi",
+        "gejala": ["bersin-bersin", "hidung gatal", "mata berair", "ruam kulit", "sesak napas"],
+        "deskripsi": "Reaksi imun terhadap zat asing seperti debu, serbuk sari, atau makanan.",
+        "saran": "Hindari pemicu alergi, konsumsi antihistamin, cek alergi di dokter."
+    },
+    {
+        "nama": "Gastritis",
+        "gejala": ["nyeri ulu hati", "mual", "muntah", "perut kembung", "nafsu makan menurun"],
+        "deskripsi": "Peradangan lambung akibat infeksi atau pola makan tidak sehat.",
+        "saran": "Hindari makanan pedas/asam, makan teratur, konsultasi dokter."
+    },
+    {
+        "nama": "COVID-19",
+        "gejala": ["demam", "batuk kering", "lemas", "hilang penciuman", "sesak napas", "sakit tenggorokan", "pusing", "diare"],
+        "deskripsi": "Penyakit virus corona dengan gejala pernapasan dan sistemik.",
+        "saran": "Isolasi mandiri, lakukan tes PCR/antigen, minum banyak cairan."
+    },
+    {
+        "nama": "Radang Tenggorokan",
+        "gejala": ["sakit tenggorokan", "demam", "tenggorokan gatal", "kesulitan menelan", "pusing"],
+        "deskripsi": "Infeksi pada tenggorokan yang menyebabkan rasa sakit dan iritasi.",
+        "saran": "Kumur air garam hangat, minum air hangat, konsultasikan ke dokter jika tidak membaik."
+    },
+    {
+        "nama": "ISPA (Infeksi Saluran Pernapasan Akut)",
+        "gejala": ["batuk", "pilek", "demam", "sesak napas", "sakit tenggorokan"],
+        "deskripsi": "Infeksi virus atau bakteri yang menyerang saluran pernapasan bagian atas atau bawah.",
+        "saran": "Minum banyak cairan, istirahat, dan bila parah segera ke dokter."
+    },
+    {
+        "nama": "Konjungtivitis (Mata Merah)",
+        "gejala": ["mata merah", "mata berair", "mata gatal", "sensasi terbakar", "penglihatan kabur"],
+        "deskripsi": "Peradangan konjungtiva mata akibat infeksi atau alergi.",
+        "saran": "Hindari menyentuh mata, gunakan obat tetes sesuai penyebab, jaga kebersihan."
+    },
+    {
+        "nama": "Otitis Media (Infeksi Telinga Tengah)",
+        "gejala": ["telinga sakit", "demam", "telinga berdenging", "pendengaran menurun"],
+        "deskripsi": "Infeksi di ruang telinga tengah yang biasanya terjadi setelah flu.",
+        "saran": "Kompres hangat, minum obat nyeri, konsultasi ke dokter THT bila berlanjut."
+    }
+]
